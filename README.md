@@ -7,7 +7,7 @@
 
 &gt; Single-page portfolio built with html/css/javascript.
 
-**Live site:** [My Portfolio](https://gotciphrd.github.io/portfolio_aqejtaoui_mouad/)
+**Live site:** [Mouad Aqejtaoui | Portfolio](https://gotciphrd.github.io/portfolio_aqejtaoui_mouad/)
 
 ---
 
@@ -20,6 +20,9 @@ I'm **Mouad AQEJTAOUI** — first-year DUT student at ESTG, front-end developer 
 - Projects showcase (vanilla JS rendered)
 - Commission form
 - Contact / social links
+
+### What's missing?
+- Logo been replaced by a decoy picture
 
 ### Tools:
 - languages : HTML5 · CSS3 · Vanilla JavaScript
