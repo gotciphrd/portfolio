@@ -5,9 +5,9 @@
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](#)
 
-&gt; Single-page portfolio built from scratch. No frameworks, no bloat.
+&gt; Single-page portfolio built with html/css/javascript.
 
-**Live site:** [My Portfolio](https://gotciphrd.github.io/portfolio_aqejtaoui_mouad/)
+**Live site:** [Mouad Aqejtaoui | Portfolio](https://gotciphrd.github.io/portfolio_aqejtaoui_mouad/)
 
 ---
 
@@ -21,13 +21,14 @@ I'm **Mouad AQEJTAOUI** — first-year DUT student at ESTG, front-end developer 
 - Commission form
 - Contact / social links
 
-### Tools:
-- HTML5 · CSS3 · Vanilla JavaScript
-- JetBrains Mono
-- Fully responsive
+### What's missing?
+- Logo been replaced by a decoy picture
 
-### Run locally
+### Tools:
+- languages : HTML5 · CSS3 · Vanilla JavaScript
+- fonts :JetBrains Mono
+
+### make it your own?
 ```bash
 git clone https://github.com/gotciphrd/portfolio_aqejtaoui_mouad
 cd cipher-portfolio
-# open index.html in your browser
